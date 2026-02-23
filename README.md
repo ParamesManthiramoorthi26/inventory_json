@@ -38,7 +38,7 @@ This assignment demonstrates how to **work with files and JSON in Python** to ma
 
 ## **Assignment Git Workflow**
 
-This workflow explains how to manage your **local Git repository** for the assignment.
+This workflow explains how to manage my **local Git repository** for the assignment.
 
 ---
 
@@ -63,7 +63,7 @@ git status
 git commit -m "Added Colab notebook for assignment and PDF of question"
 
 # Connect Local Repo to GitHub (Optional)
-# Add the remote repository URL (replace with your repo URL)
+# Add the remote repository URL (replace with my repo URL)
 git remote add origin https://github.com/ParamesManthiramoorthi26/inventory_json.git
 
 # Rename default branch to main
